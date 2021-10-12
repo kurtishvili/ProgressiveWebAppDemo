@@ -1,0 +1,12 @@
+#visual studio#
+.vs
+#asp net mvc#
+packages
+bin
+obj
+#angular#
+node_modules
+dist
+package-lock.json
+*.dll
+*.user
